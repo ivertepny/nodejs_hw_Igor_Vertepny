@@ -1,0 +1,14 @@
+{
+  "name": "homework02",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
